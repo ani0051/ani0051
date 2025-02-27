@@ -2,7 +2,7 @@
 
 Enthusiastic Computer Science Engineering student specializing in Artificial Intelligence with a strong foundation in Python and data analytics.
 
-**Python Developer | Data Analyst**|Developer 
+**Python Developer | Data Analyst**| Developer 
 
 ---
 
